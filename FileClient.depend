@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1395758786 source:c:\users\edward\dropbox\rit\fall semester 2013\iste.100.01-02 - comp prob solve net domain i\fileclient\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Winsock2.h"
+	"Socket1.h"
+
+1395526272 c:\users\edward\dropbox\rit\fall semester 2013\iste.100.01-02 - comp prob solve net domain i\fileclient\socket.h
+	<iostream>
+	<fstream>
+	"WinSock2.h"
+
+1395669134 source:c:\users\edward\dropbox\rit\fall semester 2013\iste.100.01-02 - comp prob solve net domain i\fileclient\socket.cpp
+	"Socket.h"
+
+1395758485 source:c:\users\edward\dropbox\rit\fall semester 2013\iste.100.01-02 - comp prob solve net domain i\fileclient\socket1.cpp
+	"Socket1.h"
+
+1395758667 c:\users\edward\dropbox\rit\fall semester 2013\iste.100.01-02 - comp prob solve net domain i\fileclient\socket1.h
+	<iostream>
+	<fstream>
+	"WinSock2.h"
+
+1395768706 source:c:\users\ryan flynn\desktop\fileclient\main1.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Winsock2.h"
+	"Socket1.h"
+
+1395758667 c:\users\ryan flynn\desktop\fileclient\socket1.h
+	<iostream>
+	<fstream>
+	"WinSock2.h"
+
+1395766345 source:c:\users\ryan flynn\desktop\fileclient\socket1.cpp
+	"Socket1.h"
+
